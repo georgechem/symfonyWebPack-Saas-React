@@ -1,5 +1,16 @@
 {% extends 'base.html.twig' %}
 
+{% block stylesheets %}
+{{ parent() }}
+{% endblock %}
+
 {% block body %}
-pages/index
+    <main id="pagesIndex">
+        <p>pages/index</p>
+    </main>
+
+{% endblock %}
+
+{% block javascripts %}
+{{ parent() }}
 {% endblock %}
