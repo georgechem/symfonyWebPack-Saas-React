@@ -1,9 +1,9 @@
-#Repository for Symfony wit Webpack encore and Sass #
+# Repository for Symfony wit Webpack encore and Sass
 
 
-##Clone repository ##
+## Clone repository
 
-###RUN: ###
+### RUN:
 1.  `composer install`
 2.  `yarn install`
 
